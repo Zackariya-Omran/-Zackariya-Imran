@@ -3,9 +3,7 @@
 <p><em>an Enginner at <a href="(https://eng.aswu.edu.eg/)">Aswan university </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer 
 
 
-[![Linkedin: Zackariya-Imran](https://img.shields.io/badge/-ZackariyaImran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zackariya-Imran/)]
-[![GitHub Zackariya-Imran](https://img.shields.io/github?)](https://github.com/Zackariya-Omran)
-
+[![Linkedin: ZackariyaImran](https://img.shields.io/badge/- ZackariyaImran-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/zackariya-omran-363831221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
