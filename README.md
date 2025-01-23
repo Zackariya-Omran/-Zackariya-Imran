@@ -1,2 +1,2 @@
-# -Zackariya-Imran
+# Zackariya-Imran
 Personal profile
